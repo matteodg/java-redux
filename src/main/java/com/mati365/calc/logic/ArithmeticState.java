@@ -15,7 +15,7 @@ import java.util.Observable;
 import java.awt.Dimension;
 
 import com.mati365.redux.Reducer;
-import com.mati365.redux.ImportableState;
+import com.mati365.redux.utils.ImportableState;
 import com.mati365.calc.utils.Matrix;
 
 /** 

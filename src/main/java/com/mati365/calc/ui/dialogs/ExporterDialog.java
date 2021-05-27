@@ -6,7 +6,7 @@
  * modifications:
  *
  */
-package com.mati365.calc.ui;
+package com.mati365.calc.ui.dialogs;
 
 import javax.validation.constraints.NotNull;
 
@@ -15,7 +15,7 @@ import java.io.IOException;
 
 import javax.swing.JFileChooser;
 
-import com.mati365.redux.StateExporter;
+import com.mati365.redux.utils.StateExporter;
 import com.mati365.calc.logic.ArithmeticState;
 
 /** 

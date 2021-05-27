@@ -6,7 +6,7 @@
  * modifications:
  *
  */
-package com.mati365.calc.ui;
+package com.mati365.calc.ui.parts;
 
 import java.awt.event.ActionListener;
 import java.awt.Dimension;
@@ -20,6 +20,8 @@ import com.mati365.calc.utils.Resources;
 import com.mati365.calc.utils.AppDestroyer;
 
 import com.mati365.calc.logic.SheetLogic;
+import com.mati365.calc.ui.dialogs.AuthorDialog;
+import com.mati365.calc.ui.dialogs.InfoDialog;
 import com.mati365.calc.logic.Logicable;
 
 /** 

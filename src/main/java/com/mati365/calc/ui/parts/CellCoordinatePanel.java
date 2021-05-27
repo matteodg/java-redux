@@ -6,7 +6,7 @@
  * modifications:
  *
  */
-package com.mati365.calc.ui;
+package com.mati365.calc.ui.parts;
 
 import net.miginfocom.swing.MigLayout;
 import javax.validation.constraints.NotNull;
@@ -26,6 +26,7 @@ import java.awt.Point;
 
 import com.mati365.calc.utils.*;
 import com.mati365.calc.logic.SheetLogic;
+import com.mati365.calc.ui.controls.IconButton;
 
 /** 
  * Component that allows user to change data in cells 

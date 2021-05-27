@@ -6,7 +6,7 @@
  * modifications:
  *
  */
-package com.mati365.calc.ui;
+package com.mati365.calc.ui.parts;
 
 import java.awt.event.MouseEvent;
 
@@ -16,7 +16,9 @@ import javax.swing.JButton;
 import javax.swing.Box;
 
 import com.mati365.calc.logic.*;
-import com.mati365.calc.ui.IconButton;
+import com.mati365.calc.ui.controls.IconButton;
+import com.mati365.calc.ui.dialogs.AuthorDialog;
+import com.mati365.calc.ui.dialogs.InfoDialog;
 import com.mati365.calc.utils.AppDestroyer;
 
 /** 

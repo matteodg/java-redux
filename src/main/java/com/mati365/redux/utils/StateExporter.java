@@ -6,7 +6,7 @@
  * modifications:
  *
  */
-package com.mati365.redux;
+package com.mati365.redux.utils;
 
 import com.fasterxml.jackson.core.JsonGenerationException;
 import com.fasterxml.jackson.databind.JsonMappingException;

@@ -6,7 +6,7 @@
  * modifications:
  *
  */
-package com.mati365.redux;
+package com.mati365.redux.utils;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.mati365.redux.ReducerState;

@@ -6,7 +6,7 @@
  * modifications:
  *
  */
-package com.mati365.calc.ui;
+package com.mati365.calc.ui.parts;
 
 import net.miginfocom.swing.MigLayout;
 import javax.validation.constraints.NotNull;
@@ -27,6 +27,7 @@ import java.awt.GridBagConstraints;
 import java.awt.Insets;
 
 import com.mati365.calc.logic.*;
+import com.mati365.calc.ui.controls.ArithmeticSheet;
 import com.mati365.calc.utils.HiddenValueItem;
 import com.mati365.calc.utils.Resources;
 

@@ -7,7 +7,7 @@
  * modifications:
  *
  */
-package com.mati365.calc.ui;
+package com.mati365.calc.ui.controls;
 
 import javax.validation.constraints.NotNull;
 import java.awt.Point;

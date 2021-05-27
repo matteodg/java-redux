@@ -17,11 +17,11 @@ import java.io.File;
 import java.awt.Dimension;
 import java.awt.Point;
 
-import com.mati365.calc.ui.ExporterDialog;
+import com.mati365.calc.ui.dialogs.ExporterDialog;
 
 import com.mati365.redux.ActionCreator;
 import com.mati365.redux.history.TimeTravelReducer;
-import com.mati365.redux.StateExporter;
+import com.mati365.redux.utils.StateExporter;
 
 /** 
  * Whole App logic  
